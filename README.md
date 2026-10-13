@@ -1,27 +1,21 @@
-## Hi, I'm Diogo 👋
+# Hi, I'm Diogo 👋
 
-I'm a Senior Frontend Engineer from Portugal 🇵🇹.
+**Senior Product Engineer | React · TypeScript · Full-Stack Product Development**
 
-I strive to create engaging experiences and products that solve real problems. My sense of curiosity drives me to pursue opportunities for continuing education,
-always eager to interact with new technology and innovation.
+I'm a product-focused software engineer who builds user-facing applications, complex workflows, and maintainable frontend architectures. I enjoy working across the stack to turn real product problems into reliable, accessible, and intuitive experiences.
 
-Some technologies I enjoy working with include **JavaScript**, **ReactJS**, **NodeJS**, **Typescript** and **GraphQL**.
+### What I work with
 
-### 📫 How to reach me:
+- **Frontend:** React, TypeScript, JavaScript, Next.js, component architecture, accessibility, and performance
+- **Product engineering:** End-to-end feature development, API integration, GraphQL, Node.js, and PostgreSQL
+- **Engineering quality:** Automated testing, end-to-end validation, maintainable architecture, and iterative delivery
+- **AI-assisted development:** Cursor and Claude Code, with an emphasis on code review, test-driven feedback, and verifying actual user workflows
 
-- Linkdin: https://www.linkedin.com/in/diogocastrodiassilva/
+<!-- ### Selected work
 
-<!--
-**DiogoCastroSilva/DiogoCastroSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ - **[Frontend Product Engineering Lab](https://github.com/DiogoCastroSilva/frontend-product-engineering-lab)** — A hands-on project exploring shared React components, design tokens, Storybook, accessibility, and product UI architecture.
 -->
+
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/diogocastrodiassilva/)
