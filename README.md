@@ -6,15 +6,14 @@ I'm a product-focused software engineer who builds user-facing applications, com
 
 ### What I work with
 
-- **Frontend:** React, TypeScript, JavaScript, Next.js, component architecture, accessibility, and performance
+- **Frontend:** React, TypeScript, JavaScript, component architecture, accessibility, and performance
 - **Product engineering:** End-to-end feature development, API integration, GraphQL, Node.js, and PostgreSQL
 - **Engineering quality:** Automated testing, end-to-end validation, maintainable architecture, and iterative delivery
-- **AI-assisted development:** Cursor and Claude Code, with an emphasis on code review, test-driven feedback, and verifying actual user workflows
+- **AI-assisted development:** Cursor and Claude Code, with an emphasis on code review, test feedback, and verifying real user workflows
 
-<!-- ### Selected work
+### Selected work
 
- - **[Frontend Product Engineering Lab](https://github.com/DiogoCastroSilva/frontend-product-engineering-lab)** — A hands-on project exploring shared React components, design tokens, Storybook, accessibility, and product UI architecture.
--->
+- **[Frontend Product Engineering Lab](https://github.com/DiogoCastroSilva/frontend-product-engineering-lab)** — An active, in-progress engineering lab exploring shared React components, design tokens, Storybook, accessibility, theming, and product UI architecture. It is a learning/portfolio project, not a production product.
 
 ### Connect
 
