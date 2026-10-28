@@ -21,6 +21,8 @@ An ongoing project where I'm exploring frontend engineering beyond individual sc
 
 I created and published reusable npm packages for ESLint, TypeScript, and Prettier configurations. The goal is to share a consistent development setup across projects without starting from scratch every time.
 
+The tooling repository is also [included in the XERJ Corpus Hub](https://hub.xerj.org/contributors/DiogoCastroSilva) as a reference for AI coding agents.
+
 **[Academic Portfolio](https://github.com/DiogoCastroSilva/academic-portfolio)**
 
 A website I'm building for my wife, using Next.js and Nx. It uses Markdown for content such as projects and publications, with a focus on making updates straightforward without constantly changing application code.
